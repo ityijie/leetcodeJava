@@ -1,5 +1,6 @@
 
 public class leetcode {
+    //c
     public static void main(String[] args) {
         System.out.println("hello leetcode");
         leetcode1 leetcode1 = new leetcode1();
